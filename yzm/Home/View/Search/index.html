@@ -1,0 +1,40 @@
+<!DOCTYPE html
+
+        PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<center>
+    <form method="post" action='__URL__/search'>
+        <input type="text" name="username" >
+        <input type="submit">
+    </form>
+    <br><br><br>
+    <table border="0">
+        <tr>
+            <th >ID</th>
+            <th >用户名</th>
+            <th >密码</th>
+        </tr>
+        <volist name="data" id="vo">
+            <tr>
+                <td>{$vo['id']}</td>
+                <td>{$vo['username']}</td>
+                <td>{$vo['password']}</td>
+            </tr>
+        </volist>
+
+    </table>
+    <br><br><br>
+    <div>{$page}</div><br><br>
+    <div id="txt"></div>
+    <br><br>
+    <a href="index.html">返回搜索页面</a>
+    <a href="/yzm/index.php/Home/User">退出</a>
+</center>
+</body>
+</html>

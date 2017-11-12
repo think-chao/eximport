@@ -1,0 +1,263 @@
+[ 2017-11-07T10:04:31+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dcimformation`
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `dcimformation` WHERE ( `username` = '007' ) AND ( `password` = '123' ) LIMIT 1  
+
+[ 2017-11-07T10:04:57+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dcimformation`
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `dcimformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1  
+
+[ 2017-11-07T10:07:10+08:00 ] ::1 /yzm/index.php/Home/Add/add
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dcimformation`
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `dcimformation` WHERE ( `username` = '007' ) AND ( `password` = '123' ) LIMIT 1  
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : INSERT INTO `dcimformation` (`username`,`password`) VALUES ('007','123')
+
+[ 2017-11-07T10:07:12+08:00 ] ::1 /yzm/index.php/Home/Add/add
+ERR: 1146:Table 'dc.dcimformation' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dcimformation`
+
+[ 2017-11-07T10:13:52+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_dc' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_dc`
+ERR: 1146:Table 'shzu.shzu_dc' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_dc` 
+
+[ 2017-11-07T10:17:13+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_shzu`
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T10:18:14+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_shzu`
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T10:33:59+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM shzu.shzu_user
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM shzu.shzu_user 
+
+[ 2017-11-07T10:41:50+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_shzu`
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T10:43:09+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM shzu.shzu_user
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM shzu.shzu_user 
+
+[ 2017-11-07T10:44:20+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM shzu.shzu_user
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM shzu.shzu_user 
+
+[ 2017-11-07T10:44:58+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM shzu.shzu_user
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM shzu.shzu_user 
+
+[ 2017-11-07T13:44:39+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'dc.dcdc' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dcdc`
+ERR: 1146:Table 'dc.dcdc' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `dcdc` 
+
+[ 2017-11-07T13:49:02+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'dc.dcdc' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dcdc`
+ERR: 1146:Table 'dc.dcdc' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `dcdc` 
+
+[ 2017-11-07T13:52:13+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'dc.dcdc' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dcdc`
+ERR: 1146:Table 'dc.dcdc' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `dcdc` 
+
+[ 2017-11-07T14:12:15+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu`
+ERR: 1146:Table 'shzu.shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu` 
+
+[ 2017-11-07T14:12:40+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu`
+ERR: 1146:Table 'shzu.shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu` 
+
+[ 2017-11-07T14:16:00+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu`
+ERR: 1146:Table 'shzu.shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu` 
+
+[ 2017-11-07T14:16:24+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_imformationshzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_imformationshzu`
+ERR: 1146:Table 'shzu.shzu_imformationshzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_imformationshzu` 
+
+[ 2017-11-07T15:16:17+08:00 ] ::1 /yzm/index.php/Home/User/eximport
+ERR: The filename ./Uploads//excel/2017-11-07/5a015dc1ae308.xlsx is not recognised as an OLE file
+
+[ 2017-11-07T15:51:43+08:00 ] ::1 /yzm/index.php/Home/User/eximport
+ERR: The filename ./Uploads//excel/2017-11-07/5a01660f30a0f.xlsx is not recognised as an OLE file
+
+[ 2017-11-07T16:00:54+08:00 ] ::1 /yzm/index.php/Home/User/eximport
+ERR: The filename ./Uploads//excel/2017-11-07/5a016835c3a17.xlsx is not recognised as an OLE file
+
+[ 2017-11-07T16:06:12+08:00 ] ::1 /yzm/index.php/Home/User/eximport
+ERR: The filename ./Uploads//excel/2017-11-07/5a0169742c4e0.xlsx is not recognised as an OLE file
+
+[ 2017-11-07T16:06:38+08:00 ] ::1 /yzm/index.php/Home/User/eximport
+ERR: The filename ./Uploads//excel/2017-11-07/5a01698e3f85c.xlsx is not recognised as an OLE file
+
+[ 2017-11-07T23:16:14+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '007' ) AND ( `password` = '007' ) LIMIT 1  
+
+[ 2017-11-07T23:16:43+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1  
+
+[ 2017-11-07T23:17:17+08:00 ] ::1 /yzm/index.php/Home/Add/add
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '007' ) AND ( `password` = '123' ) LIMIT 1  
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : INSERT INTO `imformation` (`username`,`password`) VALUES ('007','123')
+
+[ 2017-11-07T23:17:44+08:00 ] ::1 /yzm/index.php/Home/Add/add
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '006' ) AND ( `password` = '123' ) LIMIT 1  
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : INSERT INTO `imformation` (`username`,`password`) VALUES ('006','123')
+
+[ 2017-11-07T23:22:26+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'sh.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_shzu`
+ERR: 1146:Table 'sh.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T23:23:21+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'sh.shzu_sh' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_sh`
+ERR: 1146:Table 'sh.shzu_sh' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_sh` 
+
+[ 2017-11-07T23:24:24+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'sh.sh' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sh`
+ERR: 1146:Table 'sh.sh' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `sh` 
+
+[ 2017-11-07T23:24:39+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'sh.sh' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sh`
+ERR: 1146:Table 'sh.sh' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `sh` 
+
+[ 2017-11-07T23:32:58+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'sh.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '1' ) AND ( `password` = '1' ) LIMIT 1  
+
+[ 2017-11-07T23:36:39+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'sh.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1  
+
+[ 2017-11-07T23:37:13+08:00 ] ::1 /yzm/index.php/Home/Add/add
+ERR: 1146:Table 'sh.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '09' ) AND ( `password` = '1' ) LIMIT 1  
+ERR: 1146:Table 'sh.imformation' doesn't exist
+ [ SQL语句 ] : INSERT INTO `imformation` (`username`,`password`) VALUES ('09','1')
+
+[ 2017-11-07T23:38:00+08:00 ] ::1 /yzm/index.php/Home/Add/add
+ERR: 1146:Table 'sh.shimformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `shimformation` WHERE ( `username` = '09' ) AND ( `password` = '1' ) LIMIT 1  
+ERR: 1146:Table 'sh.shimformation' doesn't exist
+ [ SQL语句 ] : INSERT INTO `shimformation` (`username`,`password`) VALUES ('09','1')
+
+[ 2017-11-07T23:43:45+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1  
+
+[ 2017-11-07T23:44:22+08:00 ] ::1 /yzm/index.php/Home/Login/dologin
+ERR: 1146:Table 'shzu.imformation' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `imformation` WHERE ( `username` = '1' ) AND ( `password` = '1' ) LIMIT 1  
+
+[ 2017-11-07T23:46:30+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM shzu.shzu_user
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM shzu.shzu_user 
+
+[ 2017-11-07T23:50:40+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM shzu.shzu_user
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM shzu.shzu_user 
+
+[ 2017-11-07T23:50:40+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM shzu.shzu_user
+ERR: 1146:Table 'shzu.shzu_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM shzu.shzu_user 
+
+[ 2017-11-07T23:57:12+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T23:57:12+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T23:57:31+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_shzu`
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T23:57:31+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_shzu`
+ERR: 1146:Table 'shzu.shzu_shzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_shzu` 
+
+[ 2017-11-07T23:57:43+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_sh' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_sh`
+ERR: 1146:Table 'shzu.shzu_sh' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_sh` 
+
+[ 2017-11-07T23:57:43+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzu_sh' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzu_sh`
+ERR: 1146:Table 'shzu.shzu_sh' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzu_sh` 
+
+[ 2017-11-07T23:59:01+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzushzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzushzu`
+ERR: 1146:Table 'shzu.shzushzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzushzu` 
+
+[ 2017-11-07T23:59:01+08:00 ] ::1 /yzm/index.php/Home/User/export
+ERR: 1146:Table 'shzu.shzushzu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shzushzu`
+ERR: 1146:Table 'shzu.shzushzu' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shzushzu` 
+

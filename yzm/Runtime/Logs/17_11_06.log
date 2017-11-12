@@ -1,0 +1,66 @@
+[ 2017-11-06T12:46:26+08:00 ] ::1 /yzm/index.php/Home/Login/Public/verify
+ERR: 非法操作:Public
+
+[ 2017-11-06T12:46:26+08:00 ] ::1 /yzm/index.php/Home/Login/Public/verify
+ERR: 非法操作:Public
+
+[ 2017-11-06T12:46:28+08:00 ] ::1 /yzm/index.php/Home/Login/Public/verify
+ERR: 非法操作:Public
+
+[ 2017-11-06T13:10:26+08:00 ] ::1 /yzm/index.php/Home/User
+ERR: 无法加载控制器:User
+
+[ 2017-11-06T20:43:31+08:00 ] ::1 /yzm/index.php/Home/Login/Login/do_login
+ERR: 非法操作:Login
+
+[ 2017-11-06T20:44:03+08:00 ] ::1 /yzm/index.php/Home/__Controller__/do_login
+ERR: 无法加载控制器:__Controller__
+
+[ 2017-11-06T20:44:19+08:00 ] ::1 /yzm/index.php/Home/__Controller__/do_login
+ERR: 无法加载控制器:__Controller__
+
+[ 2017-11-06T20:44:22+08:00 ] ::1 /yzm/index.php/Home/__Controller__/do_login
+ERR: 无法加载控制器:__Controller__
+
+[ 2017-11-06T21:23:28+08:00 ] ::1 /yzm/index.php/Home/Manager
+ERR: 无法加载控制器:Manager
+
+[ 2017-11-06T21:23:54+08:00 ] ::1 /yzm/index.php/Home/Manager
+ERR: 非法操作:index
+
+[ 2017-11-06T21:27:36+08:00 ] ::1 /yzm/index.php/Home/Manager
+ERR: 非法操作:index
+
+[ 2017-11-06T21:28:47+08:00 ] ::1 /yzm/index.php/Home/Manager
+ERR: 非法操作:index
+
+[ 2017-11-06T21:28:48+08:00 ] ::1 /yzm/index.php/Home/Manager
+ERR: 非法操作:index
+
+[ 2017-11-06T21:29:01+08:00 ] ::1 /yzm/index.php/Home/Manager
+ERR: 非法操作:index
+
+[ 2017-11-06T21:46:38+08:00 ] ::1 /yzm/index.php/Home/Manager
+ERR: 非法操作:index
+
+[ 2017-11-06T22:04:44+08:00 ] ::1 /yzm/index.php/Home/Login/%7BU('Login/dologin')%7D
+ERR: 非法操作:{U('Login
+
+[ 2017-11-06T22:05:03+08:00 ] ::1 /yzm/index.php/Home/Login/%7BU('Login/dologin')%7D
+ERR: 非法操作:{U('Login
+
+[ 2017-11-06T22:06:21+08:00 ] ::1 /yzm/index.php/Home/%7BU('Login/dologin')%7D
+ERR: 无法加载控制器:{U('Login
+
+[ 2017-11-06T22:25:15+08:00 ] ::1 /yzm/index.php/Home/Login/__URL__/index
+ERR: 非法操作:__URL__
+
+[ 2017-11-06T23:15:42+08:00 ] ::1 /yzm/index.php/Home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-06T23:36:22+08:00 ] ::1 /yzm/index.php/Home/Update
+ERR: 无法加载控制器:Update
+
+[ 2017-11-06T23:41:20+08:00 ] ::1 /yzm/index.php/Home/Update
+ERR: 模板不存在:C:/wamp/www/yzm/Home/View/Update/index.html
+
