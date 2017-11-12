@@ -18,7 +18,7 @@ class SearchController extends Controller
         //获取post的数据，根据数据组装查询的条件，根据条件从数据库中获取数据，返回给页面中遍历
         if(isset($_POST['username']) && $_POST['username']!=null)
         {
-            $where['username']=array('like',"%{$_POST['username']}%");
+            $where['username']=array('like',"{$_POST['username']}");
         }
 
         $m=M("imformation");

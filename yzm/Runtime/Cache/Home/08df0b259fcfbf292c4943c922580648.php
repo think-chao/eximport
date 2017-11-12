@@ -8,10 +8,9 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <head>
 <title>主页</title>
 </head>
-<body color="yellow">
+<body>
 <center>
 欢迎你,<?php echo ($name); ?>!
-
 <a href="../Update">修改信息</a>
 <br><br><br>
 <div id='time'></div><br>

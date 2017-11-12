@@ -11,6 +11,7 @@ class LoginController extends Controller
 {
     function index()
     {
+            //session_destroy();
             $this->display();//显示登陆页面
     }
     function check_verify($code,$id=''){
@@ -19,13 +20,13 @@ class LoginController extends Controller
     }
     public function doLogin()//登陆验证
     {
-        //session_start()
-
+        session_start();
         //print_r($_SESSION);
         print_r($_SESSION);
         $username=$_POST['username'];
         $password=$_POST['password'];
         //$code=$_POST['code'];
+        $_SESSION['username'] = $username;
         if(empty($_POST['username']))
         {
             $this->error('帐号必须！','index');
